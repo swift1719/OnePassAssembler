@@ -10,6 +10,6 @@ _A one pass assembler passes over the source file exactly once, in the same pass
 
 > ## Output
 
-* <img src="./PassOneASMop.jpg" height="400">
+* <img src="./PassOneASMop.jpg" width="450">
 > ## The way ahead
 * [Two Pass Assembler]("https://github.com/swift1719/TwoPassAssembler")
